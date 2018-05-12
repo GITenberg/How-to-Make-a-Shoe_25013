@@ -1,0 +1,25 @@
+_repo: How-to-Make-a-Shoe_25013
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Headley, John Parker
+    gutenberg_agent_id: '28340'
+    url: http://www.gutenberg.org/2009/agents/28340
+description: ''
+gutenberg_issued: '2008-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25013'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shoemakers'
+- !lcsh 'Shoes'
+- !lcc 'TS'
+title: How to Make a Shoe
+url: http://www.gutenberg.org/ebooks/25013
