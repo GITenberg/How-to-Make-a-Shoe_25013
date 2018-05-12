@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '28340'
     url: http://www.gutenberg.org/2009/agents/28340
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25013#How-to-Make-a-Shoe
 gutenberg_issued: '2008-04-07'
 gutenberg_type: Text
 identifiers:
